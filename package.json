@@ -1,0 +1,9 @@
+{
+    "name": "is-timer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "devDependencies": {
+        "express": "^4.16.3"
+    }
+}
